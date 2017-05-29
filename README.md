@@ -3,12 +3,13 @@ Teaching some dev workflow to the new cohort
 
 # TODO
 ## little todos
-- create an *application* to take two numbers and multiply and show me the results.
+- create an *application* in javascript
+- app will read two numbers from the command line 
+- multiply them 
+- show me the results on screen
 - Go home.
 
-
+# Example
 ```
-code() {
-  // this could be code  
-}
+node multiply.js 2 3
 ```
